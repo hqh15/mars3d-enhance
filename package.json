@@ -1,0 +1,16 @@
+{
+  "name": "mars3d-enhance",
+  "version": "0.9.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sh1-5",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "mars3d": "^3.7.3",
+    "mars3d-cesium": "^1.114.0"
+  }
+}
